@@ -1,0 +1,13 @@
+{
+  "127.0.0.1": {
+    "state": "up",
+    "os": ["Linux 5.x"],
+    "ports": [
+      {
+        "port": 80,
+        "state": "open",
+        "service": "http"
+      }
+    ]
+  }
+}
